@@ -17,6 +17,7 @@ public class UserAction {
 	@RequestMapping("/hello")
 	public String helloMethod(Model model) throws Exception{
 		System.out.println("comming ....");
+		System.out.println("comming ....");
 		return "/success.jsp";
 		
 	}
