@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\gilxyj2017\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3022763397.index
+3174624062.index
+1429213443.index
+162285755.index
+19068352.index
+485642199.index
