@@ -10,5 +10,6 @@
    success.jsp<br/>
    
    ${message }
+   ${message}
 </body>
 </html>
